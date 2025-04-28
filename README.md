@@ -2,8 +2,7 @@
 
 This project focuses on predicting the risk of diabetes using a machine learning pipeline — from data preprocessing and exploratory analysis to building multiple classification models and comparing their performance.
 
-https://github.com/user-attachments/assets/ed442e57-10fe-4bb5-ae96-4afa97d84af1
----
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/ed442e57-10fe-4bb5-ae96-4afa97d84af1" />---
 
 ## 📂 Dataset
 
